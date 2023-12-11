@@ -1,5 +1,6 @@
 # 💫 About Me:
-🛠Hardware Mid-Level in advanced terminology. 💻Physical functioning ✅Optimization and performance of your equipment. Si estás buscando un técnico en hardware con un sólido conocimiento en optimización y una pasión por la excelencia, ¡no dudes en contactarme! Estoy emocionado de colaborar en proyectos desafiantes
+Soy un apasionado técnico especializado en conocimiento de hardware y optimización de sistemas. Me enorgullece ofrecer soluciones eficientes y efectivas a desafíos relacionados con hardware. Además de mi experiencia técnica, también poseo excelentes habilidades de comunicación y trabajo en equipo. Disfruto colaborando con profesionales de diferentes disciplinas para lograr soluciones integrales y eficientes.
+Si estás buscando un técnico en hardware con un sólido conocimiento en optimización y una pasión por la excelencia, ¡no dudes en contactarme! Estoy emocionado de colaborar en proyectos desafiantes
 
 
 ## 🌐 Socials:
