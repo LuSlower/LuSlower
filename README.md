@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Internal Proyects<br>🤝 I’m looking for help with @Dr.LuSlower<br>🌱 I’m currently learning Pascal with FPC
+🔭 I’m currently working on some projects<br>🤝 I’m looking for help with @Dr.LuSlower<br>🌱 I’m currently learning Pascal with FPC
 
 
 ## 🌐 Socials:
