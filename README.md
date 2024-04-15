@@ -11,7 +11,7 @@
 # OS 💻
 ![ReactOS](https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white)
 ![Windows XP](https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white)
-![Red Hatt]([https://img.shields.io/badge/Void%20Linux-478061?logo=voidlinux&logoColor=fff&style=flat-square](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white))
+![Red Hat]([https://img.shields.io/badge/Void%20Linux-478061?logo=voidlinux&logoColor=fff&style=flat-square](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white))
 ![LineageOS](https://img.shields.io/badge/lineageos-167C80?style=for-the-badge&logo=lineageos&logoColor=white)
 
 
