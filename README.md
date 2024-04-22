@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/K9kukCPzQ7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Dr.LuSlower) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@LuSlower) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/LuSlower) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/K9kukCPzQ7) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@LuSlower) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/LuSlower) 
 
 # 💻 Dev Stack:
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?logo=freelancer&logoColor=fff&style=flat) ![Markdown](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat) ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat) ![AutoIt](https://img.shields.io/badge/AutoIt-5D83AC?logo=autoit&logoColor=fff&style=flat) ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-345?logo=autohotkey&logoColor=fff&style=flat-square) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?logo=windowsterminal&logoColor=fff&style=flat) 
