@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on some projects<br>💬Ask for me how @Dr.LuSlower<br>🌱 I’m currently learning Pascal with FPC
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/K9kukCPzQ7) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@LuSlower) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/LuSlower) 
 
