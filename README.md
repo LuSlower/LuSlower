@@ -1,1 +1,1 @@
-![Views](https://komarev.com/ghpvc/?username=LuSlower)
+![Profile Views](https://komarev.com/ghpvc/?username=LuSlower)
